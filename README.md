@@ -1,5 +1,5 @@
 # AskMe_project
-A small version of **Asfkm**, which is a file based console application built with c++ using Visual Studio 2022 as an IDE.
+A small version of **ASKfkm**, which is a file based console application built with c++ using Visual Studio 2022 as an IDE.
 - The project has been refactored to apply the OOP concepts and principles such as encapsulation and abstraction.
 ## What it does
 It allows users to :
